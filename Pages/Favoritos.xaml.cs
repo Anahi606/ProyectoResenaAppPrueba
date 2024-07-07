@@ -11,7 +11,7 @@ namespace ProyectoResenaApp.Pages
     {
         public ObservableCollection<JuegoResponse> FavoritosList { get; set; }
 
-        public string GameName { get; set; }
+        //public string GameName { get; set; }
         public string GameImage { get; set; }
 
         public Favoritos()
